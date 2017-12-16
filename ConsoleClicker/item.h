@@ -2,14 +2,12 @@
 #include <string>
 
 
-//Item m‰‰rittelyt
 class Item
 {
 public:
 	Item(std::wstring n, int p,int g, int gS, int xP,int yP);
 	~Item() {};
 
-	//GET SET osio
 	std::wstring getItemText(int i);
 	std::wstring hep;
 

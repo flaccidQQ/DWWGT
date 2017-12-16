@@ -78,7 +78,7 @@ http://www.youtube.com/javidx9
 */
 
 #pragma once
-
+#include "stdafx.h"
 #include <iostream>
 #include <chrono>
 #include <vector>
